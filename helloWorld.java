@@ -4,6 +4,8 @@ public class helloWorld
   {
     int a=10;
     System.out.println(a);
+    char c='p';
+    System.out.println(c);
 
 
   }
